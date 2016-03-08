@@ -1,6 +1,6 @@
 {
   "name": "gitcloud-client",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Client for GitCloud",
   "main": "lib/index.js",
   "directories": {
@@ -30,5 +30,13 @@
     "presets": [
       "es2015"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiahaog/gitcloud-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jiahaog/gitcloud-client/issues"
+  },
+  "homepage": "https://github.com/jiahaog/gitcloud-client#readme"
 }
