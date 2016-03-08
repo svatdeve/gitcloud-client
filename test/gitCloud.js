@@ -1,4 +1,4 @@
-const gitCloud = require('./../lib/gitCloud');
+const gitCloud = require('./../lib/index');
 const chai = require('chai');
 const expect = chai.expect;
 
