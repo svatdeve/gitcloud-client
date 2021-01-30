@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiahaog/gitcloud-client.git"
+    "url": "git+https://github.com/nativefier/gitcloud-client.git"
   },
   "bugs": {
-    "url": "https://github.com/jiahaog/gitcloud-client/issues"
+    "url": "https://github.com/nativefier/gitcloud-client/issues"
   },
-  "homepage": "https://github.com/jiahaog/gitcloud-client#readme"
+  "homepage": "https://github.com/nativefier/gitcloud-client#readme"
 }

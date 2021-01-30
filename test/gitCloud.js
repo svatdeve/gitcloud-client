@@ -14,7 +14,7 @@ describe('GitCloud Client', function () {
     this.timeout(10000);
 
     it('Can get the index', function (done) {
-        gitCloud('http://jiahaog.github.io/gitcloud')
+        gitCloud('http://nativefier.github.io/gitcloud')
             .then(fileIndex => {
                 checkIndex(fileIndex);
                 done()

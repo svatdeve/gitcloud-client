@@ -1,6 +1,6 @@
 # GitCloud Client
 
-[![Build Status](https://travis-ci.org/jiahaog/gitcloud-client.svg?branch=master)](https://travis-ci.org/jiahaog/gitcloud-client)
+[![Build Status](https://travis-ci.org/nativefier/gitcloud-client.svg?branch=master)](https://travis-ci.org/nativefier/gitcloud-client)
 
 ## Installation
 
@@ -17,7 +17,7 @@ $ npm install --save gitcloud
 ```javascript
 const gitCloud = require('gitcloud');
 
-gitCloud('http://jiahaog.github.io/gitcloud')
+gitCloud('http://nativefier.github.io/gitcloud')
     .then(fileIndex => {
         console.log(fileIndex);
     })
