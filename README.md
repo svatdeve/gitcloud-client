@@ -1,6 +1,6 @@
 # GitCloud Client
 
-[![Build Status](https://travis-ci.org/nativefier/gitcloud-client.svg?branch=master)](https://travis-ci.org/nativefier/gitcloud-client)
+[![Build Status](https://github.com/nativefier/gitcloud-client/workflows/ci/badge.svg)](https://github.com/nativefier/gitcloud-client/actions?query=workflow%3Aci)
 
 ## Installation
 
