@@ -7,7 +7,7 @@
   },
   "description": "Client for GitCloud",
   "main": "gitcloud.js",
-  "typings": "gitcloud.d.ts"
+  "typings": "gitcloud.d.ts",
   "directories": {
     "test": "test"
   },
