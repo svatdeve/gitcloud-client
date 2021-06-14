@@ -39,3 +39,6 @@ node_modules
 *.iml
 out
 gen
+
+# Locally-built npm packages
+*.tgz
